@@ -1,0 +1,2 @@
+tail + head:
+implement variable lines
