@@ -2,7 +2,7 @@
 
 minimalist coreutils made as programming practice
 
-programs to implement listed in do.txt
+programs to implement listed in todo
 
 features to add:
 - help flag with explanations
